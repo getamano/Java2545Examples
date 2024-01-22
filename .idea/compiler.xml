@@ -19,8 +19,5 @@
         <module name="Examples" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Examples" target="14" />
-    </bytecodeTargetLevel>
   </component>
 </project>
