@@ -11,7 +11,7 @@ public class AboveFreezing {
 
         if (temp > 32) {
             //This will run if the condition is true
-            System.out.println("It's above freezing www");
+            System.out.println("It's above freezing");
         }
 
         //Indentation in if blocks is optional but strongly suggested

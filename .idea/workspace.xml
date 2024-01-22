@@ -22,7 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d8e9d5c-bc37-4891-9c74-3de2558f8fc7" name="Default" comment="more tidying">
+    <list default="true" id="1d8e9d5c-bc37-4891-9c74-3de2558f8fc7" name="Default" comment="add quick text">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/week1_variables_if_else/AboveFreezing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1_variables_if_else/AboveFreezing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -522,7 +523,7 @@
       <workItem from="1614712141917" duration="1010000" />
       <workItem from="1619044318209" duration="934000" />
       <workItem from="1630619490187" duration="1598000" />
-      <workItem from="1705942273486" duration="28000" />
+      <workItem from="1705942273486" duration="228000" />
     </task>
     <task id="LOCAL-00054" summary="extensions to todo list slide question">
       <created>1569343250098</created>
@@ -867,7 +868,7 @@
       <option name="project" value="LOCAL" />
       <updated>1614712739843</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -924,7 +925,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="spaces ???" />
     <MESSAGE value="remove extra argument" />
     <MESSAGE value="Colors, PC price array, while loop temp validation and for loop string of stars" />
     <MESSAGE value="Remove unnecessary code" />
@@ -949,26 +949,9 @@
     <MESSAGE value="update, select for places" />
     <MESSAGE value="Using format strings to align text in a table" />
     <MESSAGE value="reorganize files" />
-    <option name="LAST_COMMIT_MESSAGE" value="reorganize files" />
+    <MESSAGE value="add quick text" />
+    <option name="LAST_COMMIT_MESSAGE" value="add quick text" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1159" height="253" key="GridCell.Tab.0.bottom" timestamp="1630622099163">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1159" height="253" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1630622099163" />
-    <state width="1159" height="253" key="GridCell.Tab.0.center" timestamp="1630622099162">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1159" height="253" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1630622099162" />
-    <state width="1159" height="253" key="GridCell.Tab.0.left" timestamp="1630622099161">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1159" height="253" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1630622099161" />
-    <state width="1159" height="253" key="GridCell.Tab.0.right" timestamp="1630622099162">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1159" height="253" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1630622099162" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
